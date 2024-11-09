@@ -4,6 +4,7 @@
     <p><a href="https://key0223.github.io/Resume/" target="_blank"><i>✨Play the Game✨</i></a></p>
 </div>
 
+<br/>
 
 # 👩‍💻 EUNYOUNG'S PROFILE
 
