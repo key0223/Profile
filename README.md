@@ -12,7 +12,7 @@
   
 + **개발 엔진 및 언어** : Unity, C#
 
-<img src="https://via.placeholder.com/1x20" alt="" />
+<br/>
 
 ## 🕹️ 컨트롤
 
